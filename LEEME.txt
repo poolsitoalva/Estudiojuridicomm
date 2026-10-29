@@ -1,0 +1,30 @@
+SITIO WEB — ALEXI DAVID MUÑOZ MITMA
+
+CONTENIDO
+- index.html: contenido de la página.
+- style.css: apariencia visual y diseño adaptable.
+- script.js: menú móvil y consulta por WhatsApp.
+- favicon.svg: icono de la pestaña.
+
+CÓMO VERLA
+1. Extrae el archivo ZIP.
+2. Abre index.html con Chrome, Edge o cualquier navegador moderno.
+3. Debe mantenerse junto con style.css, script.js y favicon.svg.
+4. Para publicar en GitHub Pages, sube los cuatro archivos a la raíz del repositorio y activa Pages en Settings > Pages.
+
+WHATSAPP
+Todos los botones de contacto abren:
+https://wa.me/51998016091
+No se requiere WhatsApp Business para que el enlace abra un chat, pero la cuenta debe estar activa en WhatsApp.
+El formulario arma un texto localmente. No registra información ni envía nada hasta que el visitante decide continuar.
+
+INFORMACIÓN POR CONFIRMAR ANTES DE DIFUNDIR
+- Verificar que la inscripción C.A.L. N.º 81031 sea correcta y que corresponde a la información pública vigente del abogado.
+- Confirmar si los servicios y las áreas de actuación descritos coinciden con la práctica profesional y disponibilidad real.
+- No se inventaron dirección, logros, sentencias favorables, fotografías ni testimonios.
+- Se omitieron datos de expedientes y clientes; los ejemplos son categorías de asuntos, no resultados de casos patrocinados.
+
+PERSONALIZACIÓN
+- Los colores se cambian al inicio de style.css, en :root.
+- Si se proporciona un retrato real autorizado, se puede sustituir la composición tipográfica de la portada por la foto.
+- No se utilizan imágenes, fuentes ni scripts descargados de sitios externos.
